@@ -6,7 +6,7 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "npm exec n8n start" // Changed this line
+    "start": "npm exec n8n start"
   },
   "dependencies": {
     "n8n": "^1.0.0"
